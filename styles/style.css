@@ -7,6 +7,8 @@
 }
 body {
   font-family: "Roboto Slab", serif;
+  margin: 0;
+  padding: 0;
 }
 
 h2 {
@@ -30,6 +32,9 @@ h6 {
   background-color: #abc9ff;
   transform: scale(0.95, 1.15);
   transform: translateX(0.95, 1.15);
+  box-shadow: -1px 31px 21px 0px rgba(101, 102, 209, 0.69);
+  -webkit-box-shadow: -1px 31px 21px 0px rgba(101, 102, 209, 0.69);
+  -moz-box-shadow: -1px 31px 21px 0px rgba(101, 102, 209, 0.69);
 }
 
 .pakage {
